@@ -1,0 +1,32 @@
+[
+  {
+    "sender": "John-E5@gmail.com",
+    "recipient": "Me",
+    "dateSent": "2014.05.12",
+    "subject": "NO DISASSEMBLE!"
+  },
+  {
+    "sender": "Alice@exelon.com",
+    "recipient": "Me",
+    "dateSent": "2014.05.12",
+    "subject": "New Designs - more tweaks"
+  },
+  {
+    "sender": "Sarah@here.com",
+    "recipient": "Me",
+    "dateSent": "2014.05.12",
+    "subject": "Sabbatical"
+  },
+  {
+    "sender": "SEK@avclub.com",
+    "recipient": "Me",
+    "dateSent": "2014.05.12",
+    "subject": "Hodor?"
+  },
+  {
+    "sender": "Megan@nowellphoto.com",
+    "recipient": "Me",
+    "dateSent": "2014.05.12",
+    "subject": "Prints"
+  }
+]

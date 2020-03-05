@@ -1,0 +1,38 @@
+[
+  {
+    "sender":  "Me",
+    "recipient": "John-E5@gmail.com",
+    "subject": "Disassemble?",
+    "dateSent": "2014.05.12"
+  },
+  {
+    "sender":  "Me",
+    "recipient": "Alice@exelon.com",
+    "subject": "Project Completion",
+    "dateSent": "2014.05.12"
+  },
+  {
+    "sender":  "Me",
+    "recipient": "Sarah@here.com",
+    "subject": "Follow up",
+    "dateSent": "2014.05.12"
+  },
+  {
+    "sender":  "Me",
+    "recipient": "SEK@avclub.com",
+    "subject": "Game of Thrones Season 4",
+    "dateSent": "2014.05.12"
+  },
+  {
+    "sender":  "Me",
+    "recipient": "Megan@nowellphoto.com",
+    "subject": "Prints",
+    "dateSent": "2014.05.12"
+  },
+  {
+    "sender": "Me",
+    "recipient": "MariaBurnham@gmail.com",
+    "subject": "RSVP: Midsummer Nights Dream",
+    "dateSent": "2014.05.12"
+  }
+]
