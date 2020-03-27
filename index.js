@@ -5,8 +5,8 @@ const http = require('http');
 const https = require('https');
 const bodyParser = require('body-parser');
 
-const privateKey  = fs.readFileSync('./sslcert/server.key', 'utf8');
-const certificate = fs.readFileSync('./sslcert/server.cert', 'utf8');
+const privateKey  = fs.readFileSync('./sslcert/localhost.tomwilczak.key.pem', 'utf8');
+const certificate = fs.readFileSync('./sslcert/localhost.tomwilczak.cert.pem', 'utf8');
 
 const credentials = {key: privateKey, cert: certificate};
 
