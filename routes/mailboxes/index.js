@@ -32,7 +32,7 @@ routes.delete('/:mailbox/:id', (request, response) => {
   const message = box.findMessage(id);
   box.deleteMessage(id);
   if(message) {
-    response.sendStatus(200);
+    response.status(200).json(message);
   } else {
     response.sendStatus(404);
   }
