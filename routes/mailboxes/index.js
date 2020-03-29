@@ -40,7 +40,7 @@ routes.delete('/:mailbox/:id', (request, response) => {
 
 routes.post('/:mailbox', (request, response) => {
   const {mailbox} = request.params;
-  const {sender, recipient, dateSent, subject, body} = JSON.parse(request.body);
+  const {sender, recipient, dateSent, subject, body} = request.body;
   const message = mailboxes[mailbox].createMessage(sender, recipient, dateSent, subject, body);
   response.status(200).json(message);
 });
