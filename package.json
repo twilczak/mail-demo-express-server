@@ -24,6 +24,6 @@
     "lorem-ipsum": "^2.0.3",
     "node-uuid": "^1.4.8",
     "nodemon": "^2.0.2",
-    "underscore": "^1.9.2"
+    "underscore": "^1.12.1"
   }
 }
